@@ -1,0 +1,53 @@
+🧩 Rumusan Masalah Penelitian
+1. Identifikasi Masalah
+
+Club Taekwondo Jaladewa di Surabaya merupakan klub bela diri yang aktif mengikuti berbagai kompetisi di tingkat kota dan provinsi. Dalam aktivitas operasionalnya, klub ini memiliki banyak data yang harus dikelola, seperti pendaftaran atlet baru, absensi latihan, serta riwayat partisipasi dalam kejuaraan. Selama ini, sebagian besar proses administrasi masih dilakukan secara manual menggunakan formulir kertas dan pencatatan spreadsheet terpisah.
+
+Kondisi ini menyebabkan beberapa permasalahan, antara lain:
+
+duplikasi atau kehilangan data atlet,
+
+keterlambatan proses verifikasi pendaftaran,
+
+kesulitan dalam rekap absensi dan pelaporan, serta
+
+kurangnya akses informasi bagi pelatih dan admin secara real-time.
+
+Selain itu, sistem manual yang tidak terintegrasi juga menyulitkan proses pemantauan perkembangan atlet dan pengambilan keputusan administratif. Oleh karena itu, diperlukan solusi dalam bentuk sistem informasi berbasis web yang mampu mengotomatisasi proses administrasi klub secara terpusat dan efisien.
+
+Dalam pengembangannya, metode Agile (Scrum) dipilih agar sistem dapat dibangun secara bertahap dengan melibatkan umpan balik langsung dari pengguna (admin dan pelatih Jaladewa). Hal ini penting untuk memastikan bahwa setiap fitur yang dikembangkan benar-benar sesuai dengan kebutuhan pengguna di lapangan.
+
+2. Fokus Permasalahan
+
+Masalah utama dalam penelitian ini terletak pada pengembangan dan evaluasi sistem informasi berbasis web yang mampu mengelola proses pendaftaran, pengelolaan data atlet, absensi, dan pelaporan secara efisien di Club Taekwondo Jaladewa.
+Fokus penelitian ini mencakup:
+
+bagaimana metode Agile diterapkan dalam proses pengembangan sistem,
+
+sejauh mana sistem yang dihasilkan mampu meningkatkan efisiensi administrasi dibandingkan sistem manual, dan
+
+bagaimana persepsi pengguna (admin/pelatih) terhadap kemudahan dan manfaat sistem setelah diimplementasikan.
+
+3. Pertanyaan Penelitian (Research Questions)
+
+Berdasarkan identifikasi dan fokus masalah di atas, maka pertanyaan penelitian yang dapat dirumuskan adalah sebagai berikut:
+
+Bagaimana proses pengembangan sistem informasi berbasis web untuk pengelolaan pendaftaran dan data atlet pada Club Taekwondo Jaladewa di Surabaya menggunakan metode Agile (Scrum)?
+
+Bagaimana sistem informasi yang dikembangkan dapat mempermudah proses administrasi pendaftaran, absensi, dan pengelolaan data atlet?
+
+Bagaimana tingkat efisiensi dan kepuasan pengguna (admin dan pelatih) terhadap sistem yang diimplementasikan dibandingkan proses manual sebelumnya?
+
+Bagaimana penerapan metode Agile berpengaruh terhadap kualitas hasil pengembangan sistem dari sisi waktu, fleksibilitas, dan kelengkapan fitur?
+
+4. Tujuan Penelitian (Derived Objectives)
+
+Tujuan penelitian ini diturunkan langsung dari rumusan masalah di atas, yaitu untuk:
+
+Merancang dan mengembangkan sistem informasi berbasis web yang mendukung proses pendaftaran, manajemen data atlet, absensi, dan pelaporan pada Club Taekwondo Jaladewa.
+
+Menerapkan metode pengembangan Agile (Scrum) untuk menghasilkan sistem yang sesuai dengan kebutuhan pengguna melalui iterasi dan umpan balik berkala.
+
+Mengevaluasi efektivitas sistem yang dikembangkan dalam meningkatkan efisiensi administrasi dan kepuasan pengguna dibandingkan metode manual.
+
+Memberikan rekomendasi penerapan sistem informasi serupa bagi organisasi olahraga lain yang menghadapi permasalahan administrasi sejenis.

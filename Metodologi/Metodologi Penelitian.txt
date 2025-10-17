@@ -1,0 +1,147 @@
+METODOLOGI PENELITIAN
+
+3.1 Paradigma Penelitian
+
+Penelitian ini menggunakan paradigma konstruktivistik, di mana pengembangan sistem informasi dilakukan melalui proses iteratif dan kolaboratif antara peneliti, pelatih, serta pengurus klub Jaladewa. Paradigma konstruktivistik berasumsi bahwa realitas dibangun berdasarkan interaksi sosial dan pengalaman praktis.
+
+Paradigma ini sesuai dengan karakter penelitian pengembangan sistem, karena:
+
+Melibatkan pengguna secara langsung dalam proses analisis kebutuhan dan evaluasi sistem.
+
+Menekankan pada user-centered development melalui pendekatan Agile.
+
+Menghasilkan solusi yang aplikatif sesuai dengan konteks organisasi nyata (Klub Taekwondo Jaladewa).
+
+3.2 Jenis dan Pendekatan Penelitian
+
+Jenis penelitian ini adalah penelitian dan pengembangan (Research and Development / R&D) dengan pendekatan Agile Software Development Methodology.
+Pendekatan ini dipilih karena memungkinkan peneliti untuk:
+
+Mengembangkan sistem informasi secara bertahap dan adaptif terhadap perubahan kebutuhan pengguna.
+
+Melakukan evaluasi di setiap iterasi (sprint) untuk memastikan sistem sesuai harapan pengguna akhir.
+
+Menghasilkan produk akhir yang fungsional dalam waktu yang lebih efisien.
+
+3.3 Desain Penelitian
+
+Desain penelitian disusun berdasarkan siklus Agile (Scrum Framework), yang meliputi beberapa tahap utama:
+
+Perencanaan (Planning):
+Mengidentifikasi kebutuhan fungsional dan non-fungsional sistem melalui wawancara dengan pengurus dan pelatih Jaladewa.
+
+Analisis Kebutuhan:
+Menyusun dokumen spesifikasi kebutuhan perangkat lunak (Software Requirements Specification / SRS).
+
+Perancangan Sistem (Design):
+Membuat desain arsitektur sistem, diagram ERD, DFD, dan antarmuka pengguna (UI/UX).
+
+Implementasi (Development):
+Membangun sistem berbasis web menggunakan framework modern sesuai hasil perancangan.
+
+Pengujian (Testing):
+Melakukan pengujian fungsionalitas dan penerimaan pengguna (user acceptance test).
+
+Evaluasi dan Iterasi:
+Menerapkan perbaikan berdasarkan hasil umpan balik pengguna di setiap sprint.
+
+3.4 Variabel Penelitian
+
+Variabel Independen (X):
+Metode pengembangan sistem yang digunakan, yaitu Agile (Scrum).
+
+Variabel Dependen (Y):
+Kualitas sistem informasi yang diukur melalui indikator:
+
+Efektivitas sistem (kemudahan penggunaan, kecepatan akses).
+
+Efisiensi pengelolaan data atlet dan pendaftaran.
+
+Kepuasan pengguna (user satisfaction).
+
+3.5 Sumber Data dan Teknik Pengumpulan Data
+
+Data Primer:
+
+Wawancara dengan pengurus, pelatih, dan admin Jaladewa.
+
+Observasi langsung terhadap proses pendaftaran dan pengelolaan data atlet.
+
+Kuesioner untuk menilai kepuasan pengguna terhadap sistem.
+
+Data Sekunder:
+
+Dokumen pendaftaran atlet sebelumnya.
+
+Arsip kegiatan klub (data event, kehadiran, prestasi).
+
+Literatur terkait sistem informasi dan metode Agile.
+
+3.6 Prosedur Penelitian
+
+Tahapan prosedural penelitian ini meliputi:
+
+Analisis Kebutuhan:
+
+Mengidentifikasi permasalahan manual dalam pendaftaran dan pendataan atlet.
+
+Menentukan kebutuhan sistem yang dapat mengotomatisasi proses tersebut.
+
+Perancangan Sistem:
+
+Membuat diagram konteks, ERD, dan rancangan antarmuka (UI/UX).
+
+Menentukan alur kerja sistem untuk pendaftaran, absensi, dan manajemen atlet.
+
+Pengembangan Sistem:
+
+Implementasi sistem berbasis web menggunakan bahasa pemrograman PHP (Lumen/Laravel) dan framework frontend (React.js atau Next.js).
+
+Integrasi database MySQL untuk penyimpanan data atlet dan kegiatan.
+
+Pengujian Sistem:
+
+Pengujian black-box terhadap seluruh fitur utama.
+
+User acceptance test dengan admin dan pelatih Jaladewa.
+
+Evaluasi:
+
+Analisis hasil pengujian dan umpan balik pengguna.
+
+Perbaikan dan iterasi sistem hingga mencapai stabilitas dan kepuasan pengguna.
+
+3.7 Metode Analisis Data
+
+Analisis data dilakukan melalui dua pendekatan:
+
+Analisis Kuantitatif:
+Menggunakan hasil kuesioner pengguna untuk menilai tingkat efektivitas, efisiensi, dan kepuasan terhadap sistem dengan skala Likert.
+
+Analisis Kualitatif:
+Menelaah hasil wawancara dan observasi untuk mengevaluasi sejauh mana sistem membantu proses operasional klub.
+
+3.8 Alat dan Lingkungan Pengembangan
+
+Bahasa Pemrograman: PHP (Lumen Framework), JavaScript (React.js)
+
+Database: MySQL
+
+Web Server: Apache / Nginx
+
+Tools: Visual Studio Code, Postman, GitHub
+
+Platform Pengujian: Browser Web (Desktop & Mobile)
+
+Metodologi: Agile (Scrum) dengan sprint berdurasi 2 minggu
+
+3.9 Validitas dan Reliabilitas
+
+Validitas Internal:
+Diperoleh melalui uji fungsionalitas yang memastikan setiap fitur bekerja sesuai kebutuhan pengguna.
+
+Validitas Eksternal:
+Diperkuat dengan keterlibatan pengguna nyata (admin dan pelatih) dalam evaluasi sistem.
+
+Reliabilitas:
+Diuji dengan menjalankan sistem di beberapa perangkat dan browser berbeda untuk memastikan stabilitas.

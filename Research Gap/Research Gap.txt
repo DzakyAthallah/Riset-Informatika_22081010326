@@ -1,0 +1,30 @@
+🧠 Latar Belakang Penelitian
+
+Perkembangan teknologi informasi saat ini telah membawa perubahan signifikan dalam pengelolaan data dan administrasi organisasi, termasuk pada bidang olahraga. Pemanfaatan sistem informasi berbasis web telah menjadi solusi efektif dalam meningkatkan efisiensi, transparansi, dan akurasi pengelolaan data. Club Taekwondo Jaladewa di Surabaya, sebagai salah satu klub bela diri aktif yang rutin mengikuti berbagai event di tingkat kota dan provinsi, membutuhkan sistem administrasi yang terstruktur untuk mendukung kegiatan operasional, seperti pendaftaran atlet, pengelolaan data anggota, absensi, serta pelaporan kegiatan.
+
+Namun, proses administrasi di Jaladewa masih banyak dilakukan secara manual, seperti pengisian formulir pendaftaran di kertas, pencatatan kehadiran dengan daftar tulis, dan rekap data atlet melalui spreadsheet terpisah. Proses tersebut menimbulkan berbagai permasalahan, antara lain duplikasi data, kesulitan pelacakan riwayat atlet, serta keterlambatan dalam proses verifikasi dan pelaporan. Selain itu, keterbatasan akses informasi bagi pelatih dan atlet seringkali menyebabkan komunikasi internal menjadi kurang efektif.
+
+Untuk mengatasi masalah tersebut, dibutuhkan sebuah sistem informasi terintegrasi yang dapat membantu proses pendaftaran, manajemen data atlet, serta pelaporan secara real-time dan terpusat. Sistem ini diharapkan mampu menjadi sarana utama bagi admin dan pelatih dalam melakukan pengelolaan kegiatan klub secara efisien.
+
+Dalam pengembangannya, penelitian ini menggunakan metode Agile (Scrum) yang menekankan pada kolaborasi, fleksibilitas, dan pengembangan bertahap berdasarkan umpan balik pengguna. Pendekatan ini memungkinkan sistem dikembangkan secara iteratif sesuai dengan kebutuhan aktual pengguna (admin dan pelatih Jaladewa), serta memastikan bahwa setiap peningkatan fitur didasarkan pada evaluasi langsung dari proses sebelumnya.
+
+Dengan adanya sistem informasi berbasis web yang dikembangkan menggunakan pendekatan Agile, diharapkan kegiatan administrasi Club Taekwondo Jaladewa dapat dilakukan dengan lebih cepat, akurat, dan transparan.
+
+🔍 Identifikasi Gap Penelitian
+
+Kesenjangan dalam konteks implementasi di organisasi olahraga lokal:
+Sebagian besar penelitian tentang sistem informasi berbasis web difokuskan pada institusi pendidikan atau perusahaan, sementara implementasi di klub olahraga lokal — khususnya tingkat kota seperti Club Taekwondo Jaladewa — masih jarang dikaji secara mendalam.
+
+Kesenjangan dalam pendekatan pengembangan sistem:
+Banyak penelitian terdahulu menggunakan model pengembangan klasik seperti Waterfall, yang kurang adaptif terhadap perubahan kebutuhan pengguna. Belum banyak penelitian yang menganalisis efektivitas metode Agile (Scrum) dalam konteks pengembangan sistem informasi organisasi kecil seperti klub olahraga.
+
+Kesenjangan pada aspek evaluasi pengguna akhir:
+Sebagian penelitian lebih berfokus pada aspek teknis sistem (fitur dan performa) dibandingkan aspek usability dan kepuasan pengguna akhir (admin, pelatih, dan atlet). Evaluasi empiris terkait kemudahan penggunaan dan efisiensi kerja setelah penerapan sistem masih terbatas.
+
+🎯 Signifikansi Penelitian
+
+Aspek akademik:
+Penelitian ini memberikan kontribusi terhadap pengembangan ilmu di bidang sistem informasi, khususnya dalam penerapan metode Agile (Scrum) untuk pengembangan sistem di organisasi kecil seperti klub olahraga. Selain itu, hasil penelitian dapat menjadi acuan bagi studi selanjutnya terkait adaptasi Agile pada lingkungan non-korporat.
+
+Aspek praktis:
+Sistem informasi yang dihasilkan dapat digunakan secara langsung oleh Club Taekwondo Jaladewa sebagai solusi nyata untuk memperbaiki proses administrasi dan manajemen data atlet. Implementasi sistem ini juga diharapkan dapat meningkatkan efisiensi kerja admin dan pelatih, mengurangi kesalahan pencatatan, serta mempercepat proses pendaftaran dan pelaporan kegiatan.
